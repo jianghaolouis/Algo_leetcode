@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+# Algorithm and data structure
 
-You can use the [editor on GitHub](https://github.com/jianghaolouis/Algo_leetcode/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Task List**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+数组->链表->栈->队列->递归->排序->二分查找->哈希表->字符串->二叉树->堆->图->回溯->分治->动态规划
 
-### Markdown
+### 01_array
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 实现一个支持动态扩容的数组
+2. 实现一个大小固定的有序数组，支持动态增删改操作
+3. 实现两个有序数组合并为一个有序数组
+
+-  练习：
+
+Three Sum（求三数之和）
+
+Majority Element（求众数）
+
+Missing Positive（求缺失的第一个正数）
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +35,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jianghaolouis/Algo_leetcode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
